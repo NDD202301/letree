@@ -51,7 +51,7 @@
                 Button1 As ボタン:
                     DisplayMode: =DisplayMode.Edit
                     Height: =32
-                    Text: ="登録"
+                    Text: ="登 録"
                     Width: =96
                     X: =414
                     Y: =113
