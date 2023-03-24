@@ -35,7 +35,7 @@
                 Label2 As ラベル:
                     DisplayMode: =DisplayMode.Edit
                     Height: =32
-                    Text: ="姓名："
+                    Text: ="姓　名："
                     Width: =120
                     X: =63
                     Y: =78
