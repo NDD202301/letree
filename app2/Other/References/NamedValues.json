@@ -1,0 +1,54 @@
+{
+  "NamedValues": [
+    {
+      "Kind": "Page",
+      "Name": "TPage2",
+      "Value": "custompage:cref2_tpage2_229d4"
+    },
+    {
+      "Kind": "Page",
+      "Name": "Lemon",
+      "Value": "custompage:cref2_lemon_58d0d"
+    },
+    {
+      "Kind": "Page",
+      "Name": "ページ 1",
+      "Value": "custompage:cref2_1_c45a8"
+    },
+    {
+      "Kind": "Page",
+      "Name": "CompTest",
+      "Value": "custompage:cref2_comptest_4fc44"
+    },
+    {
+      "Kind": "Page",
+      "Name": "XX管理システム",
+      "Value": "custompage:cref2_xx_f89cf"
+    },
+    {
+      "Kind": "Page",
+      "Name": "0512Page",
+      "Value": "custompage:cref2_0512page_8cd49"
+    },
+    {
+      "Kind": "Page",
+      "Name": "ページ作成(コンポーネント)",
+      "Value": "custompage:cref2__5974e"
+    },
+    {
+      "Kind": "Page",
+      "Name": "TPage",
+      "Value": "custompage:cref2_tpage_67066"
+    },
+    {
+      "Kind": "Page",
+      "Name": "ページ ２",
+      "Value": "custompage:cref2__e1c73"
+    },
+    {
+      "Kind": "Page",
+      "Name": "CustomePageDemo",
+      "Value": "custompage:cref2_customepagedemo_e66c5"
+    }
+  ]
+}

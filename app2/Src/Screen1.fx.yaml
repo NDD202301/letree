@@ -1,0 +1,67 @@
+"Screen1 As screen.'tabletAutoLayout_HeaderMainFooter_ver1.0'":
+    LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
+
+    ScreenContainer1 As groupContainer.verticalAutoLayoutContainer:
+        Height: =Parent.Height
+        LayoutAlignItems: =LayoutAlignItems.Stretch
+        LayoutDirection: =LayoutDirection.Vertical
+        LayoutMode: =LayoutMode.Auto
+        Width: =Parent.Width
+        ZIndex: =1
+
+        HeaderContainer1 As groupContainer.horizontalAutoLayoutContainer:
+            FillPortions: =0
+            Height: =75
+            LayoutMinHeight: =100
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            ZIndex: =2
+
+        MainSectionContainer1 As groupContainer.verticalAutoLayoutContainer:
+            LayoutDirection: =LayoutDirection.Vertical
+            LayoutMinHeight: =100
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            ZIndex: =3
+
+            Container1 As groupContainer.manualLayoutContainer:
+                Height: =Parent.Height
+                LayoutMinHeight: =100
+                LayoutMinWidth: =250
+                Width: =    Parent.Width
+                ZIndex: =1
+
+                Label1 As ラベル:
+                    DisplayMode: =DisplayMode.Edit
+                    Height: =32
+                    Text: ="ログインユーザー："
+                    Width: =150
+                    X: =40
+                    Y: =40
+                    ZIndex: =1
+
+                "TextBox1 As 'テキスト ボックス'":
+                    DisplayMode: =DisplayMode.Edit
+                    Height: =32
+                    Width: =320
+                    X: =190
+                    Y: =40
+                    ZIndex: =2
+
+                Button1 As ボタン:
+                    DisplayMode: =DisplayMode.Edit
+                    Height: =32
+                    Text: ="登録"
+                    Width: =96
+                    X: =414
+                    Y: =113
+                    ZIndex: =3
+
+        FooterContainer1 As groupContainer.horizontalAutoLayoutContainer:
+            FillPortions: =0
+            Height: =75
+            LayoutMinHeight: =100
+            LayoutMinWidth: =250
+            LayoutMode: =LayoutMode.Auto
+            ZIndex: =4
+
