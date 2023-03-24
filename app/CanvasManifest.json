@@ -116,6 +116,7 @@
     "UserLocale": "ja-JP"
   },
   "ScreenOrder": [
-    "TopMenu"
+    "TopMenu",
+    "Screen1"
   ]
 }
